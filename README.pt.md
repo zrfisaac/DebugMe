@@ -9,6 +9,12 @@
 [![](https://img.shields.io/badge/english--4169E1?style=for-the-badge)](README.en.md)
 [![](https://img.shields.io/badge/-português-f9c22b?style=for-the-badge)](README.pt.md)
 
+[![](https://img.shields.io/badge/version-0.0.4-4169E1?style=flat-square)](#)
+[![](https://img.shields.io/badge/windows-binary-4CAF50?style=flat-square)](https://github.com/zrfisaac/DebugMe/releases/download/v0.0.4/DebugMe.exe)
+[![](https://img.shields.io/badge/windows-install-FF4500?style=flat-square)](https://github.com/zrfisaac/DebugMe/archive/refs/tags/DebugMe-v0.0.4.deb)
+[![](https://img.shields.io/badge/linux-binary-4CAF50?style=flat-square)](https://github.com/zrfisaac/DebugMe/releases/download/v0.0.4/DebugMe.exe)
+[![](https://img.shields.io/badge/linux-install-FF4500?style=flat-square)](https://github.com/zrfisaac/DebugMe/archive/refs/tags/DebugMe-v0.0.4.deb)
+
 # <img src="debugme.ico" alt="Logo" width="64" height="64"> DebugMe
 
 ## EM DESENVOLVIMENTO!
