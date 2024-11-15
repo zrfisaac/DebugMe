@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/-english-4169E1?style=for-the-badge)](README.en.md)
 [![](https://img.shields.io/badge/português--f9c22b?style=for-the-badge)](README.pt.md)
 
-# <img src="debugme.ico" alt="Logo" width="48" height="48"> DebugMe
+# <img src="debugme.ico" alt="Logo" width="64" height="64"> DebugMe
 
 ## UNDER DEVELOPMENT!
 
