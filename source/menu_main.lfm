@@ -1,0 +1,51 @@
+object MenuMain: TMenuMain
+  Left = 320
+  Height = 400
+  Top = 180
+  Width = 600
+  Caption = 'MenuMain'
+  ClientHeight = 400
+  ClientWidth = 600
+  DesignTimePPI = 120
+  Menu = miMenu
+  Position = poScreenCenter
+  LCLVersion = '3.6.0.0'
+  object pnBack: TPanel
+    Left = 0
+    Height = 371
+    Top = 0
+    Width = 600
+    Align = alClient
+    BevelOuter = bvNone
+    TabOrder = 0
+  end
+  object sbFooter: TStatusBar
+    Left = 0
+    Height = 29
+    Top = 371
+    Width = 600
+    Panels = <>
+  end
+  object miMenu: TMainMenu
+    Left = 24
+    Top = 16
+  end
+  object tiTray: TTrayIcon
+    PopUpMenu = pmTray
+    Left = 24
+    Top = 144
+  end
+  object imMenu: TImageList
+    Left = 24
+    Top = 80
+  end
+  object pmTray: TPopupMenu
+    Images = imTray
+    Left = 24
+    Top = 208
+  end
+  object imTray: TImageList
+    Left = 24
+    Top = 272
+  end
+end

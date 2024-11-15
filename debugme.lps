@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="debugme.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="14"/>
+        <CursorPos X="24" Y="31"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="source\menu_main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MenuMain"/>
+        <ResourceBaseClass Value="Form"/>
+        <CursorPos Y="9"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="source\module_main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="ModuleMain"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <EditorIndex Value="3"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="source\unit_config.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="10"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="16">
+      <Position>
+        <Filename Value="source\menu_main.pas"/>
+        <Caret Line="13" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="source\menu_main.pas"/>
+        <Caret Line="4"/>
+      </Position>
+      <Position>
+        <Filename Value="source\menu_main.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="source\menu_main.pas"/>
+        <Caret Line="32" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="source\menu_main.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="source\menu_main.pas"/>
+        <Caret Line="7" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="source\menu_main.pas"/>
+        <Caret Line="15" Column="74"/>
+      </Position>
+      <Position>
+        <Filename Value="source\menu_main.pas"/>
+        <Caret Line="7"/>
+      </Position>
+      <Position>
+        <Filename Value="source\menu_main.pas"/>
+        <Caret Line="3" Column="4"/>
+      </Position>
+      <Position>
+        <Filename Value="source\module_main.pas"/>
+        <Caret Line="9" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="source\module_main.pas"/>
+        <Caret Line="4"/>
+      </Position>
+      <Position>
+        <Filename Value="source\menu_main.pas"/>
+        <Caret Line="9" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="source\unit_config.pas"/>
+        <Caret Line="4"/>
+      </Position>
+      <Position>
+        <Filename Value="source\menu_main.pas"/>
+        <Caret Line="36" Column="24" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="source\unit_config.pas"/>
+        <Caret Line="10" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="debugme.lpr"/>
+        <Caret Line="10" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="source\module_main.pas"/>
+        <Caret Line="13" TopLine="4"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
